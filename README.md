@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi robots,
+
+Ankit here, I like python and R.
+bla bla bla... bla bla bla(I wish I could code like this)
